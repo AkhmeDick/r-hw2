@@ -1,6 +1,6 @@
 ---
 title: "hw_2"
-author: "Имя Отчество Фамилия"
+author: "Ахмед Гусенович Магомедов"
 output: html_document
 editor_options: 
   chunk_output_type: console
